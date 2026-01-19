@@ -1,0 +1,113 @@
+[
+  {
+    "id": "31706566-95ac-4383-8787-7dce9c8531a9",
+    "title": "Crazy Hits",
+    "artist": "Crazy Frog",
+    "coverUrl": "https://coverartarchive.org/release/31706566-95ac-4383-8787-7dce9c8531a9/42939176306-500.jpg",
+    "releaseYear": 2005
+  },
+  {
+    "id": "e16cda60-6e6d-4a32-8d7c-e12d9aeb72de",
+    "title": "OK Computer",
+    "artist": "Radiohead",
+    "coverUrl": "http://coverartarchive.org/release/e16cda60-6e6d-4a32-8d7c-e12d9aeb72de/8874990868-500.jpg",
+    "releaseYear": 1997
+  },
+  {
+    "id": "27f534f7-12c5-4c56-8dda-39fbdad10c17",
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "coverUrl": "http://coverartarchive.org/release/27f534f7-12c5-4c56-8dda-39fbdad10c17/10703950254-500.jpg",
+    "releaseYear": 1980
+  },
+  {
+    "id": "df8fe008-36fa-332d-bca2-8b1c745c09ad",
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "coverUrl": "http://coverartarchive.org/release/df8fe008-36fa-332d-bca2-8b1c745c09ad/1183677010-500.jpg",
+    "releaseYear": 2003
+  },
+  {
+    "id": "4338eb6b-a2bd-41bd-b9d8-2082f5f37569",
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "coverUrl": "https://coverartarchive.org/release/4338eb6b-a2bd-41bd-b9d8-2082f5f37569/35923305156-500.jpg",
+    "releaseYear": 1990
+  },
+  {
+    "id": "5184e039-8e0d-4ae7-9103-0ad554751328",
+    "title": "Purple Rain",
+    "artist": "Prince",
+    "coverUrl": "http://coverartarchive.org/release/5184e039-8e0d-4ae7-9103-0ad554751328/23620141687-500.jpg"
+  },
+  {
+    "id": "ba387f9a-6770-4ed7-a108-e0fa946f070f",
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "coverUrl": "http://coverartarchive.org/release/ba387f9a-6770-4ed7-a108-e0fa946f070f/5812987560-500.jpg",
+    "releaseYear": 1988
+  },
+  {
+    "id": "a6d959b9-abec-4079-9285-c5fe01fd64f3",
+    "title": "London Calling",
+    "artist": "The Clash",
+    "coverUrl": "http://coverartarchive.org/release/a6d959b9-abec-4079-9285-c5fe01fd64f3/31507140107-500.jpg",
+    "releaseYear": 1987
+  },
+  {
+    "id": "2ff77f3e-53f6-3db5-8b02-f17a63508a35",
+    "title": "Revolver",
+    "artist": "The Beatles",
+    "coverUrl": "http://coverartarchive.org/release/2ff77f3e-53f6-3db5-8b02-f17a63508a35/4423120420-500.jpg",
+    "releaseYear": 1979
+  },
+  {
+    "id": "b42f7f38-22da-4aae-9ae6-3e0f9752f4c4",
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "coverUrl": "http://coverartarchive.org/release/b42f7f38-22da-4aae-9ae6-3e0f9752f4c4/17226336582-500.jpg",
+    "releaseYear": 2011
+  },
+  {
+    "id": "7a0fe329-9d54-4404-b493-853e8aaa1415",
+    "title": "The Velvet Underground & Nico",
+    "artist": "The Velvet Underground",
+    "coverUrl": "http://coverartarchive.org/release/7a0fe329-9d54-4404-b493-853e8aaa1415/1122415219-500.jpg",
+    "releaseYear": 1986
+  },
+  {
+    "id": "cb05d8c5-f86f-4fe5-a7a0-37ac339a492d",
+    "title": "In Rainbows",
+    "artist": "Radiohead",
+    "coverUrl": "http://coverartarchive.org/release/cb05d8c5-f86f-4fe5-a7a0-37ac339a492d/1738448987-500.jpg",
+    "releaseYear": 2009
+  },
+  {
+    "id": "fbba9c88-6bec-4300-87ee-cb2ede5f200a",
+    "title": "Kid A",
+    "artist": "Radiohead",
+    "coverUrl": "https://coverartarchive.org/release/fbba9c88-6bec-4300-87ee-cb2ede5f200a/43210381884-500.jpg",
+    "releaseYear": 2009
+  },
+  {
+    "id": "f20e5407-4677-4246-a235-04c154ecb763",
+    "title": "Appetite for Destruction",
+    "artist": "Guns N’ Roses",
+    "coverUrl": "http://coverartarchive.org/release/f20e5407-4677-4246-a235-04c154ecb763/8491085957-500.jpg",
+    "releaseYear": 1987
+  },
+  {
+    "id": "7d8e9d24-2f0e-473c-801c-3d895e0e0eee",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "coverUrl": "http://coverartarchive.org/release/7d8e9d24-2f0e-473c-801c-3d895e0e0eee/4827684356-500.jpg",
+    "releaseYear": 2001
+  },
+  {
+    "id": "a78a16d6-2c2d-4873-9676-f07f313ba372",
+    "title": "Loveless",
+    "artist": "My Bloody Valentine",
+    "coverUrl": "http://coverartarchive.org/release/a78a16d6-2c2d-4873-9676-f07f313ba372/7496263249-500.jpg",
+    "releaseYear": 1991
+  }
+]
