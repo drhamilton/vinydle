@@ -44,7 +44,7 @@ export function makeGuess(
     ? strategy.revealAll(state.obscureState)
     : strategy.revealNext(state.obscureState);
 
-  let newStatus = state.status;
+  let newStatus: GameState["status"] = state.status;
   if (isCorrect) {
     newStatus = "won";
   } else if (newGuesses.length >= state.maxGuesses) {

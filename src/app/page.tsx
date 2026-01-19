@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { Game } from "@/components";
 import { createStaticProvider, type Album } from "@/lib/providers";
@@ -11,7 +11,7 @@ const strategy = createBlurGridStrategy({ gridSize: 3, blurAmount: 20 });
 
 const DEMO_ALBUM_ID = "31706566-95ac-4383-8787-7dce9c8531a9"; // Crazy Frog
 
-export default function Home() {
+function HomeContent() {
   const searchParams = useSearchParams();
   const [album, setAlbum] = useState<Album | null>(null);
 
@@ -25,17 +25,19 @@ export default function Home() {
   }, [searchParams]);
 
   if (!album) {
-    return (
-      <main className="flex min-h-screen flex-col items-center justify-center">
-        <div className="text-neutral-400">Loading...</div>
-      </main>
-    );
+    return <div className="text-neutral-400">Loading...</div>;
   }
 
+  return <Game album={album} provider={provider} strategy={strategy} />;
+}
+
+export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-8">
       <h1 className="mb-8 text-4xl font-bold">Vinydle</h1>
-      <Game album={album} provider={provider} strategy={strategy} />
+      <Suspense fallback={<div className="text-neutral-400">Loading...</div>}>
+        <HomeContent />
+      </Suspense>
     </main>
   );
 }
