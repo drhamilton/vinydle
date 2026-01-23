@@ -1996,5 +1996,151 @@
     "artist": "The Microphones",
     "coverUrl": "https://coverartarchive.org/release/1f31fbe7-83ff-4460-aa4b-55c0cb8ed852/front-500",
     "releaseYear": 2013
+  },
+  {
+    "id": "3f0d1bbb-134f-466d-a795-e6c0265f4d0c",
+    "title": "Close to the Edge",
+    "artist": "Yes",
+    "coverUrl": "https://coverartarchive.org/release/3f0d1bbb-134f-466d-a795-e6c0265f4d0c/front-500",
+    "releaseYear": 2012
+  },
+  {
+    "id": "5439e3de-a282-4d92-9107-589e76444e67",
+    "title": "1984",
+    "artist": "Van Halen",
+    "coverUrl": "https://coverartarchive.org/release/5439e3de-a282-4d92-9107-589e76444e67/front-500",
+    "releaseYear": 2015
+  },
+  {
+    "id": "14c014bb-3455-45cb-bbea-2a475cd7cf0d",
+    "title": "Black Messiah",
+    "artist": "D'Angelo",
+    "coverUrl": "https://coverartarchive.org/release/14c014bb-3455-45cb-bbea-2a475cd7cf0d/front-500",
+    "releaseYear": 2015
+  },
+  {
+    "id": "288718d4-5737-3e6c-8c6f-ab16c0073684",
+    "title": "Fear of Music",
+    "artist": "Talking Heads",
+    "coverUrl": "https://coverartarchive.org/release/288718d4-5737-3e6c-8c6f-ab16c0073684/front-500",
+    "releaseYear": 1979
+  },
+  {
+    "id": "9d16e4ca-d429-4df5-a792-6bafc1bb6cb5",
+    "title": "Speaking in Tongues",
+    "artist": "Talking Heads",
+    "coverUrl": "https://coverartarchive.org/release/9d16e4ca-d429-4df5-a792-6bafc1bb6cb5/front-500",
+    "releaseYear": 2006
+  },
+  {
+    "id": "1d2be447-71b0-470a-ad38-925ecaf83c08",
+    "title": "Black Celebration",
+    "artist": "Depeche Mode",
+    "coverUrl": "https://coverartarchive.org/release/1d2be447-71b0-470a-ad38-925ecaf83c08/front-500",
+    "releaseYear": 1986
+  },
+  {
+    "id": "1d933339-3642-42e1-a307-52111756dde4",
+    "title": "Ray of Light",
+    "artist": "Madonna",
+    "coverUrl": "https://coverartarchive.org/release/1d933339-3642-42e1-a307-52111756dde4/front-500",
+    "releaseYear": 1998
+  },
+  {
+    "id": "582dc53d-98e6-483e-aeaf-9efe44053642",
+    "title": "Piece of Mind",
+    "artist": "Iron Maiden",
+    "coverUrl": "https://coverartarchive.org/release/582dc53d-98e6-483e-aeaf-9efe44053642/front-500"
+  },
+  {
+    "id": "7e9b0af2-5fba-4cfa-8258-23be6afe768d",
+    "title": "Painkiller",
+    "artist": "Judas Priest",
+    "coverUrl": "https://coverartarchive.org/release/7e9b0af2-5fba-4cfa-8258-23be6afe768d/front-500",
+    "releaseYear": 2001
+  },
+  {
+    "id": "cbb2d024-4102-48c8-af24-25e50a699520",
+    "title": "Weezer",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/cbb2d024-4102-48c8-af24-25e50a699520/front-500",
+    "releaseYear": 2008
+  },
+  {
+    "id": "9d5a9fef-160d-4fc5-8b4e-22345d2685b2",
+    "title": "Maladroit",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/9d5a9fef-160d-4fc5-8b4e-22345d2685b2/front-500",
+    "releaseYear": 2002
+  },
+  {
+    "id": "50398938-ce77-40b4-8106-5ea18365464c",
+    "title": "Make Believe",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/50398938-ce77-40b4-8106-5ea18365464c/front-500",
+    "releaseYear": 2005
+  },
+  {
+    "id": "56aba3f8-0379-4675-bdd1-2815c906ad0e",
+    "title": "Weezer (Red Album)",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/56aba3f8-0379-4675-bdd1-2815c906ad0e/front-500",
+    "releaseYear": 2008
+  },
+  {
+    "id": "5b81f161-31ee-48b9-859b-57da681c5fb8",
+    "title": "Hurley",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/5b81f161-31ee-48b9-859b-57da681c5fb8/front-500",
+    "releaseYear": 2010
+  },
+  {
+    "id": "826fec4c-edf8-49f0-a021-b8b16505a8e7",
+    "title": "Van Weezer",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/826fec4c-edf8-49f0-a021-b8b16505a8e7/front-500",
+    "releaseYear": 2021
+  },
+  {
+    "id": "1725881c-9b0e-3398-ab17-85ddaa300e49",
+    "title": "Down on the Upside",
+    "artist": "Soundgarden",
+    "coverUrl": "https://coverartarchive.org/release/1725881c-9b0e-3398-ab17-85ddaa300e49/front-500",
+    "releaseYear": 1996
+  },
+  {
+    "id": "d8f9a99d-18f4-4d4a-b6ff-ff1402165e31",
+    "title": "Yield",
+    "artist": "Pearl Jam",
+    "coverUrl": "https://coverartarchive.org/release/d8f9a99d-18f4-4d4a-b6ff-ff1402165e31/front-500",
+    "releaseYear": 1998
+  },
+  {
+    "id": "06438d71-3a7d-3f41-9338-3dc08351e19f",
+    "title": "Aquemini",
+    "artist": "OutKast",
+    "coverUrl": "https://coverartarchive.org/release/06438d71-3a7d-3f41-9338-3dc08351e19f/front-500",
+    "releaseYear": 1998
+  },
+  {
+    "id": "b077a894-6632-481c-9e71-f2b1081def3d",
+    "title": "Pinkerton",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/b077a894-6632-481c-9e71-f2b1081def3d/front-500",
+    "releaseYear": 1996
+  },
+  {
+    "id": "b4f94353-1ee6-30c4-b175-7a7af1c2e4a9",
+    "title": "Raditude",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/b4f94353-1ee6-30c4-b175-7a7af1c2e4a9/front-500",
+    "releaseYear": 2009
+  },
+  {
+    "id": "425e3c00-61ee-4e04-85a0-6e290fad1c78",
+    "title": "Hurley",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/425e3c00-61ee-4e04-85a0-6e290fad1c78/front-500",
+    "releaseYear": 2010
   }
 ]

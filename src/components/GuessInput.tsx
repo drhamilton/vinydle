@@ -89,26 +89,30 @@ export function GuessInput({
         className="w-full rounded-lg border border-neutral-700 bg-neutral-900 px-4 py-3 text-white placeholder-neutral-500 outline-none focus:border-neutral-500 disabled:opacity-50"
       />
       {isOpen && (
-        <div className="absolute z-10 mt-1 max-h-60 w-full overflow-auto rounded-lg border border-neutral-700 bg-neutral-900">
+        <div className="absolute z-10 mt-2 max-h-60 w-full overflow-auto rounded-md border border-neutral-600 bg-neutral-800 shadow-lg shadow-black/50">
           {searchState === "searching" && (
-            <div className="px-4 py-3 text-neutral-400">Searching...</div>
+            <div className="px-4 py-3 text-neutral-400 text-sm">Searching...</div>
           )}
           {searchState === "done" && results.length === 0 && (
-            <div className="px-4 py-3 text-neutral-400">No results found</div>
+            <div className="px-4 py-3 text-neutral-400 text-sm">No results found</div>
           )}
           {searchState === "done" && results.length > 0 && (
-            <ul>
+            <ul className="py-1">
               {results.map((album, index) => (
                 <li
                   key={album.id}
                   onClick={() => handleSelect(album)}
                   onMouseEnter={() => setSelectedIndex(index)}
-                  className={`cursor-pointer px-4 py-2 ${
-                    index === selectedIndex ? "bg-neutral-800" : ""
+                  className={`cursor-pointer px-3 py-2 mx-1 rounded transition-colors ${
+                    index === selectedIndex
+                      ? "bg-blue-600 text-white"
+                      : "hover:bg-neutral-700"
                   }`}
                 >
-                  <div className="font-medium">{album.title}</div>
-                  <div className="text-sm text-neutral-400">{album.artist}</div>
+                  <div className="text-sm font-medium">{album.title}</div>
+                  <div className={`text-xs ${index === selectedIndex ? "text-blue-200" : "text-neutral-400"}`}>
+                    {album.artist}
+                  </div>
                 </li>
               ))}
             </ul>

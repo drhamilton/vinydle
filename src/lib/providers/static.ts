@@ -2,6 +2,7 @@ import type { Album, AlbumProvider } from "./types";
 import albumsData from "../../../data/albums.json";
 
 const ALBUMS: Album[] = albumsData as Album[];
+const ANSWER_ALBUMS: Album[] = ALBUMS.filter((a) => a.isAnswer !== false);
 
 function hashDate(date: Date): number {
   const dateStr = date.toISOString().split("T")[0];
@@ -30,27 +31,27 @@ export function createStaticProvider(): AlbumProvider {
     },
 
     async getDailyAlbum(date: Date): Promise<Album> {
-      const index = hashDate(date) % ALBUMS.length;
-      return ALBUMS[index];
+      const index = hashDate(date) % ANSWER_ALBUMS.length;
+      return ANSWER_ALBUMS[index];
     },
 
     async getRandomAlbum(exclude?: Set<string>): Promise<Album> {
       if (!exclude || exclude.size === 0) {
-        const index = Math.floor(Math.random() * ALBUMS.length);
-        return ALBUMS[index];
+        const index = Math.floor(Math.random() * ANSWER_ALBUMS.length);
+        return ANSWER_ALBUMS[index];
       }
-      const available = ALBUMS.filter((a) => !exclude.has(a.id));
+      const available = ANSWER_ALBUMS.filter((a) => !exclude.has(a.id));
       if (available.length === 0) {
         // All albums played, pick any random one
-        const index = Math.floor(Math.random() * ALBUMS.length);
-        return ALBUMS[index];
+        const index = Math.floor(Math.random() * ANSWER_ALBUMS.length);
+        return ANSWER_ALBUMS[index];
       }
       const index = Math.floor(Math.random() * available.length);
       return available[index];
     },
 
     getTotalCount(): number {
-      return ALBUMS.length;
+      return ANSWER_ALBUMS.length;
     },
   };
 }

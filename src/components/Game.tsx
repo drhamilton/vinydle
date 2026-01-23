@@ -3,7 +3,7 @@
 import { useState, useCallback } from "react";
 import type { Album, AlbumProvider } from "@/lib/providers";
 import type { ObscureStrategy } from "@/lib/obscure";
-import { createGame, makeGuess, getRemainingGuesses, giveUp } from "@/lib/game";
+import { createGame, makeGuess, getRemainingGuesses, giveUp, revealHint } from "@/lib/game";
 import type { GameState } from "@/lib/game";
 import { AlbumGrid } from "./AlbumGrid";
 import { GuessInput } from "./GuessInput";
@@ -37,6 +37,10 @@ export function Game({ album, provider, strategy, onNewAlbum }: GameProps) {
     setGameState((prev) => giveUp(prev, strategy));
   }, [strategy]);
 
+  const handleRevealHint = useCallback(() => {
+    setGameState((prev) => revealHint(prev, strategy));
+  }, [strategy]);
+
   const remaining = getRemainingGuesses(gameState);
 
   return (
@@ -51,7 +55,7 @@ export function Game({ album, provider, strategy, onNewAlbum }: GameProps) {
         </button>
       )}
       <AlbumGrid
-        coverUrl={album.coverUrl}
+        coverUrl={album.coverUrl ?? ""}
         strategy={strategy}
         state={gameState.obscureState}
         size={300}
@@ -63,12 +67,20 @@ export function Game({ album, provider, strategy, onNewAlbum }: GameProps) {
             {remaining} guess{remaining !== 1 ? "es" : ""} remaining
           </div>
           <GuessInput onGuess={handleGuess} searchAlbums={searchAlbums} />
-          <button
-            onClick={handleGiveUp}
-            className="text-neutral-500 hover:text-neutral-300 text-sm"
-          >
-            Give up
-          </button>
+          <div className="flex gap-4">
+            <button
+              onClick={handleRevealHint}
+              className="text-neutral-500 hover:text-neutral-300 text-sm"
+            >
+              Reveal square
+            </button>
+            <button
+              onClick={handleGiveUp}
+              className="text-neutral-500 hover:text-neutral-300 text-sm"
+            >
+              Give up
+            </button>
+          </div>
         </>
       )}
 

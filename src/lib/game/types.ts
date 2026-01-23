@@ -8,6 +8,7 @@ export interface Guess {
   albumTitle: string;
   artist: string;
   correct: boolean;
+  sameArtist: boolean;
 }
 
 export interface GameState {

@@ -32,11 +32,16 @@ export function makeGuess(
     (guessedAlbum.title.toLowerCase() === state.album.title.toLowerCase() &&
       guessedAlbum.artist.toLowerCase() === state.album.artist.toLowerCase());
 
+  const sameArtist =
+    !isCorrect &&
+    guessedAlbum.artist.toLowerCase() === state.album.artist.toLowerCase();
+
   const guess: Guess = {
     albumId: guessedAlbum.id,
     albumTitle: guessedAlbum.title,
     artist: guessedAlbum.artist,
     correct: isCorrect,
+    sameArtist,
   };
 
   const newGuesses = [...state.guesses, guess];
@@ -74,5 +79,22 @@ export function giveUp(state: GameState, strategy: ObscureStrategy): GameState {
     ...state,
     status: "lost",
     obscureState: strategy.revealAll(state.obscureState),
+  };
+}
+
+export function revealHint(
+  state: GameState,
+  strategy: ObscureStrategy
+): GameState {
+  if (state.status !== "playing") return state;
+
+  const newObscureState = strategy.revealNext(state.obscureState);
+  const guessesUsed = state.guesses.length + 1;
+
+  return {
+    ...state,
+    maxGuesses: state.maxGuesses - 1,
+    status: guessesUsed >= state.maxGuesses ? "lost" : state.status,
+    obscureState: newObscureState,
   };
 }

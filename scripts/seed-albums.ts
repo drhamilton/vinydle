@@ -140,6 +140,24 @@ const METAL = [
   { title: "Far Beyond Driven", artist: "Pantera" },
 ];
 
+const WEEZER = [
+  { title: "Weezer", artist: "Weezer" }, // Blue Album
+  { title: "Pinkerton", artist: "Weezer" },
+  { title: "Weezer (Green Album)", artist: "Weezer" },
+  { title: "Maladroit", artist: "Weezer" },
+  { title: "Make Believe", artist: "Weezer" },
+  { title: "Weezer (Red Album)", artist: "Weezer" },
+  { title: "Raditude", artist: "Weezer" },
+  { title: "Hurley", artist: "Weezer" },
+  { title: "Everything Will Be Alright in the End", artist: "Weezer" },
+  { title: "Weezer (White Album)", artist: "Weezer" },
+  { title: "Pacific Daydream", artist: "Weezer" },
+  { title: "Weezer (Teal Album)", artist: "Weezer" },
+  { title: "Weezer (Black Album)", artist: "Weezer" },
+  { title: "OK Human", artist: "Weezer" },
+  { title: "Van Weezer", artist: "Weezer" },
+];
+
 const GRUNGE_ALT_90S = [
   // Already in list: Nevermind, In Utero, Ten, Dirt
   { title: "Superunknown", artist: "Soundgarden" },
@@ -409,6 +427,7 @@ const TOP_ALBUMS = [
   ...NEW_WAVE_80S,
   ...POP_80S_90S,
   ...METAL,
+  ...WEEZER,
   ...GRUNGE_ALT_90S,
   ...HIP_HOP_GOLDEN_AGE,
   ...HIP_HOP_2000S,

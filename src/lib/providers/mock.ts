@@ -1,6 +1,6 @@
 import type { Album, AlbumProvider } from "./types";
 
-const MOCK_ALBUMS: Album[] = [
+const ALL_MOCK_ALBUMS: Album[] = [
   {
     id: "1",
     title: "OK Computer",
@@ -38,6 +38,8 @@ const MOCK_ALBUMS: Album[] = [
   },
 ];
 
+const MOCK_ALBUMS: Album[] = ALL_MOCK_ALBUMS.filter((a) => a.isAnswer !== false);
+
 function hashDate(date: Date): number {
   const dateStr = date.toISOString().split("T")[0];
   let hash = 0;
@@ -57,7 +59,7 @@ export function createMockProvider(): AlbumProvider {
 
     async searchAlbums(query: string): Promise<Album[]> {
       const lower = query.toLowerCase();
-      return MOCK_ALBUMS.filter(
+      return ALL_MOCK_ALBUMS.filter(
         (a) =>
           a.title.toLowerCase().includes(lower) ||
           a.artist.toLowerCase().includes(lower)
