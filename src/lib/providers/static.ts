@@ -34,9 +34,23 @@ export function createStaticProvider(): AlbumProvider {
       return ALBUMS[index];
     },
 
-    async getRandomAlbum(): Promise<Album> {
-      const index = Math.floor(Math.random() * ALBUMS.length);
-      return ALBUMS[index];
+    async getRandomAlbum(exclude?: Set<string>): Promise<Album> {
+      if (!exclude || exclude.size === 0) {
+        const index = Math.floor(Math.random() * ALBUMS.length);
+        return ALBUMS[index];
+      }
+      const available = ALBUMS.filter((a) => !exclude.has(a.id));
+      if (available.length === 0) {
+        // All albums played, pick any random one
+        const index = Math.floor(Math.random() * ALBUMS.length);
+        return ALBUMS[index];
+      }
+      const index = Math.floor(Math.random() * available.length);
+      return available[index];
+    },
+
+    getTotalCount(): number {
+      return ALBUMS.length;
     },
   };
 }

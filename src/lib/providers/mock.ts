@@ -69,9 +69,22 @@ export function createMockProvider(): AlbumProvider {
       return MOCK_ALBUMS[index];
     },
 
-    async getRandomAlbum(): Promise<Album> {
-      const index = Math.floor(Math.random() * MOCK_ALBUMS.length);
-      return MOCK_ALBUMS[index];
+    async getRandomAlbum(exclude?: Set<string>): Promise<Album> {
+      if (!exclude || exclude.size === 0) {
+        const index = Math.floor(Math.random() * MOCK_ALBUMS.length);
+        return MOCK_ALBUMS[index];
+      }
+      const available = MOCK_ALBUMS.filter((a) => !exclude.has(a.id));
+      if (available.length === 0) {
+        const index = Math.floor(Math.random() * MOCK_ALBUMS.length);
+        return MOCK_ALBUMS[index];
+      }
+      const index = Math.floor(Math.random() * available.length);
+      return available[index];
+    },
+
+    getTotalCount(): number {
+      return MOCK_ALBUMS.length;
     },
   };
 }

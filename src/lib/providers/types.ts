@@ -10,5 +10,6 @@ export interface AlbumProvider {
   getAlbum(id: string): Promise<Album | null>;
   searchAlbums(query: string): Promise<Album[]>;
   getDailyAlbum(date: Date): Promise<Album>;
-  getRandomAlbum(): Promise<Album>;
+  getRandomAlbum(exclude?: Set<string>): Promise<Album>;
+  getTotalCount(): number;
 }

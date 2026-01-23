@@ -5,6 +5,11 @@ import { useSearchParams } from "next/navigation";
 import { Game } from "@/components";
 import { createStaticProvider, type Album } from "@/lib/providers";
 import { createBlurGridStrategy } from "@/lib/obscure";
+import {
+  getPlayedAlbumIds,
+  markAlbumPlayed,
+  resetPlayedAlbums,
+} from "@/lib/played-albums";
 
 const provider = createStaticProvider();
 const strategy = createBlurGridStrategy({ gridSize: 3, blurAmount: 20 });
@@ -14,6 +19,11 @@ const DEMO_ALBUM_ID = "31706566-95ac-4383-8787-7dce9c8531a9"; // Crazy Frog
 function HomeContent() {
   const searchParams = useSearchParams();
   const [album, setAlbum] = useState<Album | null>(null);
+  const [playedIds, setPlayedIds] = useState<Set<string>>(() => new Set());
+
+  useEffect(() => {
+    setPlayedIds(getPlayedAlbumIds());
+  }, []);
 
   useEffect(() => {
     const isDemo = searchParams.get("demo") === "true";
@@ -25,7 +35,23 @@ function HomeContent() {
   }, [searchParams]);
 
   const handleNewAlbum = useCallback(() => {
-    provider.getRandomAlbum().then(setAlbum);
+    const currentPlayed = getPlayedAlbumIds();
+    // Reset if all albums have been played
+    if (currentPlayed.size >= provider.getTotalCount()) {
+      resetPlayedAlbums();
+      setPlayedIds(new Set());
+      provider.getRandomAlbum().then((newAlbum) => {
+        markAlbumPlayed(newAlbum.id);
+        setPlayedIds(new Set([newAlbum.id]));
+        setAlbum(newAlbum);
+      });
+    } else {
+      provider.getRandomAlbum(currentPlayed).then((newAlbum) => {
+        markAlbumPlayed(newAlbum.id);
+        setPlayedIds((prev) => new Set([...prev, newAlbum.id]));
+        setAlbum(newAlbum);
+      });
+    }
   }, []);
 
   if (!album) {
