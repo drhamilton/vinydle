@@ -1,6 +1,6 @@
 "use client";
 
-import { Suspense, useEffect, useState } from "react";
+import { Suspense, useCallback, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { Game } from "@/components";
 import { createStaticProvider, type Album } from "@/lib/providers";
@@ -24,11 +24,15 @@ function HomeContent() {
     }
   }, [searchParams]);
 
+  const handleNewAlbum = useCallback(() => {
+    provider.getRandomAlbum().then(setAlbum);
+  }, []);
+
   if (!album) {
     return <div className="text-neutral-400">Loading...</div>;
   }
 
-  return <Game album={album} provider={provider} strategy={strategy} />;
+  return <Game key={album.id} album={album} provider={provider} strategy={strategy} onNewAlbum={handleNewAlbum} />;
 }
 
 export default function Home() {

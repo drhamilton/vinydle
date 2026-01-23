@@ -68,6 +68,11 @@ export function createMockProvider(): AlbumProvider {
       const index = hashDate(date) % MOCK_ALBUMS.length;
       return MOCK_ALBUMS[index];
     },
+
+    async getRandomAlbum(): Promise<Album> {
+      const index = Math.floor(Math.random() * MOCK_ALBUMS.length);
+      return MOCK_ALBUMS[index];
+    },
   };
 }
 

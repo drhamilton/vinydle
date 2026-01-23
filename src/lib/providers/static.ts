@@ -33,6 +33,11 @@ export function createStaticProvider(): AlbumProvider {
       const index = hashDate(date) % ALBUMS.length;
       return ALBUMS[index];
     },
+
+    async getRandomAlbum(): Promise<Album> {
+      const index = Math.floor(Math.random() * ALBUMS.length);
+      return ALBUMS[index];
+    },
   };
 }
 

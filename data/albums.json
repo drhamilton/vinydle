@@ -109,5 +109,688 @@
     "artist": "My Bloody Valentine",
     "coverUrl": "http://coverartarchive.org/release/a78a16d6-2c2d-4873-9676-f07f313ba372/7496263249-500.jpg",
     "releaseYear": 1991
+  },
+  {
+    "id": "009a9e97-0097-3fa8-ac85-3d67d6d5e06e",
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "coverUrl": "https://coverartarchive.org/release/009a9e97-0097-3fa8-ac85-3d67d6d5e06e/front-500",
+    "releaseYear": 2001
+  },
+  {
+    "id": "61f65153-ac17-4e14-8597-8c47ef3b4723",
+    "title": "The Bodyguard",
+    "artist": "Whitney Houston",
+    "coverUrl": "https://coverartarchive.org/release/61f65153-ac17-4e14-8597-8c47ef3b4723/front-500",
+    "releaseYear": 2017
+  },
+  {
+    "id": "2ce938bc-574a-4aa7-8ddb-ee8f00b856a5",
+    "title": "Bat Out of Hell",
+    "artist": "Meat Loaf",
+    "coverUrl": "https://coverartarchive.org/release/2ce938bc-574a-4aa7-8ddb-ee8f00b856a5/front-500"
+  },
+  {
+    "id": "f3522c59-4dfb-46c6-bd1c-533c14d8a547",
+    "title": "Let's Talk About Love",
+    "artist": "Celine Dion",
+    "coverUrl": "https://coverartarchive.org/release/f3522c59-4dfb-46c6-bd1c-533c14d8a547/front-500",
+    "releaseYear": 1997
+  },
+  {
+    "id": "081ea37e-db59-4332-8cd2-ad020cb93af6",
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "coverUrl": "https://coverartarchive.org/release/081ea37e-db59-4332-8cd2-ad020cb93af6/front-500",
+    "releaseYear": 1977
+  },
+  {
+    "id": "0401b526-eebe-495c-bba2-5807bca0a71a",
+    "title": "Saturday Night Fever",
+    "artist": "Bee Gees",
+    "coverUrl": "https://coverartarchive.org/release/0401b526-eebe-495c-bba2-5807bca0a71a/front-500"
+  },
+  {
+    "id": "798700a7-3b1d-4b15-af9b-86675f07c46b",
+    "title": "Come On Over",
+    "artist": "Shania Twain",
+    "coverUrl": "https://coverartarchive.org/release/798700a7-3b1d-4b15-af9b-86675f07c46b/front-500"
+  },
+  {
+    "id": "7e89be43-0c3a-3d05-9471-40dd26a98385",
+    "title": "Led Zeppelin IV",
+    "artist": "Led Zeppelin",
+    "coverUrl": "https://coverartarchive.org/release/7e89be43-0c3a-3d05-9471-40dd26a98385/front-500",
+    "releaseYear": 2001
+  },
+  {
+    "id": "f90d0f5c-edb5-4d3e-8776-9c9cd629c694",
+    "title": "The Wall",
+    "artist": "Pink Floyd",
+    "coverUrl": "https://coverartarchive.org/release/f90d0f5c-edb5-4d3e-8776-9c9cd629c694/front-500",
+    "releaseYear": 1994
+  },
+  {
+    "id": "fa88df7e-805b-492e-ab0f-456a2c3a2c73",
+    "title": "Brothers in Arms",
+    "artist": "Dire Straits",
+    "coverUrl": "https://coverartarchive.org/release/fa88df7e-805b-492e-ab0f-456a2c3a2c73/front-500",
+    "releaseYear": 1985
+  },
+  {
+    "id": "30744a82-8c64-3084-a065-b195538b13f5",
+    "title": "Bad",
+    "artist": "Michael Jackson",
+    "coverUrl": "https://coverartarchive.org/release/30744a82-8c64-3084-a065-b195538b13f5/front-500",
+    "releaseYear": 1987
+  },
+  {
+    "id": "471b6606-6807-4125-9a63-aa6eb35d9496",
+    "title": "1",
+    "artist": "The Beatles",
+    "coverUrl": "https://coverartarchive.org/release/471b6606-6807-4125-9a63-aa6eb35d9496/front-500",
+    "releaseYear": 2015
+  },
+  {
+    "id": "25f0fa1b-ae04-479a-a182-18a655ff6040",
+    "title": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen",
+    "coverUrl": "https://coverartarchive.org/release/25f0fa1b-ae04-479a-a182-18a655ff6040/front-500",
+    "releaseYear": 2015
+  },
+  {
+    "id": "aa531d88-d797-4a4e-8c57-71e28c4497b0",
+    "title": "Jagged Little Pill",
+    "artist": "Alanis Morissette",
+    "coverUrl": "https://coverartarchive.org/release/aa531d88-d797-4a4e-8c57-71e28c4497b0/front-500",
+    "releaseYear": 1995
+  },
+  {
+    "id": "44b7cab1-0ce1-404e-9089-b458eb3fa530",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "artist": "The Beatles",
+    "coverUrl": "https://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/front-500",
+    "releaseYear": 1967
+  },
+  {
+    "id": "768bc7f7-6b91-4b57-8a7b-1508636719e6",
+    "title": "21",
+    "artist": "Adele",
+    "coverUrl": "https://coverartarchive.org/release/768bc7f7-6b91-4b57-8a7b-1508636719e6/front-500",
+    "releaseYear": 2011
+  },
+  {
+    "id": "b6945872-411f-4bf5-824b-7b319148a264",
+    "title": "Appetite for Destruction",
+    "artist": "Guns N' Roses",
+    "coverUrl": "https://coverartarchive.org/release/b6945872-411f-4bf5-824b-7b319148a264/front-500",
+    "releaseYear": 1987
+  },
+  {
+    "id": "6a296a62-e3bf-4c4a-b1d2-7b8778cf572e",
+    "title": "The Joshua Tree",
+    "artist": "U2",
+    "coverUrl": "https://coverartarchive.org/release/6a296a62-e3bf-4c4a-b1d2-7b8778cf572e/front-500",
+    "releaseYear": 1987
+  },
+  {
+    "id": "1e24029c-3449-457c-9e83-7a91991a847f",
+    "title": "Purple Rain",
+    "artist": "Prince",
+    "coverUrl": "https://coverartarchive.org/release/1e24029c-3449-457c-9e83-7a91991a847f/front-500"
+  },
+  {
+    "id": "3c186b52-ca73-46a3-a8e6-04559bfbb581",
+    "title": "Hysteria",
+    "artist": "Def Leppard",
+    "coverUrl": "https://coverartarchive.org/release/3c186b52-ca73-46a3-a8e6-04559bfbb581/front-500",
+    "releaseYear": 2008
+  },
+  {
+    "id": "a44fe138-76e6-4d12-9305-859028469602",
+    "title": "True Blue",
+    "artist": "Madonna",
+    "coverUrl": "https://coverartarchive.org/release/a44fe138-76e6-4d12-9305-859028469602/front-500",
+    "releaseYear": 1986
+  },
+  {
+    "id": "afee1fa8-359e-4305-b052-c2cbaee9a4bb",
+    "title": "Legend",
+    "artist": "Bob Marley and the Wailers",
+    "coverUrl": "https://coverartarchive.org/release/afee1fa8-359e-4305-b052-c2cbaee9a4bb/front-500"
+  },
+  {
+    "id": "4cc8db15-ae90-45ed-a0fa-7ada024a4fc7",
+    "title": "Baby One More Time",
+    "artist": "Britney Spears",
+    "coverUrl": "https://coverartarchive.org/release/4cc8db15-ae90-45ed-a0fa-7ada024a4fc7/front-500",
+    "releaseYear": 1999
+  },
+  {
+    "id": "85c5184e-bffc-4263-80ba-6aa460533f9f",
+    "title": "Supernatural",
+    "artist": "Santana",
+    "coverUrl": "https://coverartarchive.org/release/85c5184e-bffc-4263-80ba-6aa460533f9f/front-500",
+    "releaseYear": 1999
+  },
+  {
+    "id": "532f1ea7-ff27-4239-acc2-36adfd3c4b7e",
+    "title": "Unplugged",
+    "artist": "Eric Clapton",
+    "coverUrl": "https://coverartarchive.org/release/532f1ea7-ff27-4239-acc2-36adfd3c4b7e/front-500",
+    "releaseYear": 1992
+  },
+  {
+    "id": "9154cfe5-ef58-458f-b5d4-eb6ca3e404c4",
+    "title": "Ten",
+    "artist": "Pearl Jam",
+    "coverUrl": "https://coverartarchive.org/release/9154cfe5-ef58-458f-b5d4-eb6ca3e404c4/front-500",
+    "releaseYear": 1991
+  },
+  {
+    "id": "d42e8186-d02f-4fab-a525-0fa2d8ab8631",
+    "title": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "coverUrl": "https://coverartarchive.org/release/d42e8186-d02f-4fab-a525-0fa2d8ab8631/front-500"
+  },
+  {
+    "id": "0cb0f83f-b8d2-4cd7-a5fb-32a4bc21d053",
+    "title": "Blood Sugar Sex Magik",
+    "artist": "Red Hot Chili Peppers",
+    "coverUrl": "https://coverartarchive.org/release/0cb0f83f-b8d2-4cd7-a5fb-32a4bc21d053/front-500",
+    "releaseYear": 2009
+  },
+  {
+    "id": "62779645-f10b-4543-abc5-13c3575721cd",
+    "title": "London Calling",
+    "artist": "The Clash",
+    "coverUrl": "https://coverartarchive.org/release/62779645-f10b-4543-abc5-13c3575721cd/front-500",
+    "releaseYear": 1987
+  },
+  {
+    "id": "b2002626-ea4f-47d4-972d-1aa229335321",
+    "title": "The Bends",
+    "artist": "Radiohead",
+    "coverUrl": "https://coverartarchive.org/release/b2002626-ea4f-47d4-972d-1aa229335321/front-500",
+    "releaseYear": 1995
+  },
+  {
+    "id": "3b408cb5-7d51-4188-b07c-fabcf308cda3",
+    "title": "In Rainbows",
+    "artist": "Radiohead",
+    "coverUrl": "https://coverartarchive.org/release/3b408cb5-7d51-4188-b07c-fabcf308cda3/front-500",
+    "releaseYear": 2007
+  },
+  {
+    "id": "9c4031ca-5e46-4c52-8a68-7711fdf95def",
+    "title": "Blue",
+    "artist": "Joni Mitchell",
+    "coverUrl": "https://coverartarchive.org/release/9c4031ca-5e46-4c52-8a68-7711fdf95def/front-500"
+  },
+  {
+    "id": "d3fd8e23-7f4f-4148-8cb3-486f9f01d45a",
+    "title": "Tapestry",
+    "artist": "Carole King",
+    "coverUrl": "https://coverartarchive.org/release/d3fd8e23-7f4f-4148-8cb3-486f9f01d45a/front-500",
+    "releaseYear": 1999
+  },
+  {
+    "id": "85692f37-1468-4360-ab69-4819b66dc0e6",
+    "title": "Graceland",
+    "artist": "Paul Simon",
+    "coverUrl": "https://coverartarchive.org/release/85692f37-1468-4360-ab69-4819b66dc0e6/front-500",
+    "releaseYear": 1986
+  },
+  {
+    "id": "498bddd0-b8cf-4691-850f-296bd008138f",
+    "title": "Pet Sounds",
+    "artist": "The Beach Boys",
+    "coverUrl": "https://coverartarchive.org/release/498bddd0-b8cf-4691-850f-296bd008138f/front-500",
+    "releaseYear": 2012
+  },
+  {
+    "id": "1ef35e9c-6bf2-4f89-ab70-4095883a509f",
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "coverUrl": "https://coverartarchive.org/release/1ef35e9c-6bf2-4f89-ab70-4095883a509f/front-500",
+    "releaseYear": 1998
+  },
+  {
+    "id": "4ee80ac8-7241-40f7-92fb-7d164f5f05d4",
+    "title": "Songs in the Key of Life",
+    "artist": "Stevie Wonder",
+    "coverUrl": "https://coverartarchive.org/release/4ee80ac8-7241-40f7-92fb-7d164f5f05d4/front-500",
+    "releaseYear": 2011
+  },
+  {
+    "id": "18416863-1777-4687-bc96-a87056b21664",
+    "title": "Kind of Blue",
+    "artist": "Miles Davis",
+    "coverUrl": "https://coverartarchive.org/release/18416863-1777-4687-bc96-a87056b21664/front-500",
+    "releaseYear": 1994
+  },
+  {
+    "id": "2d2b2557-5000-37ae-b18f-1fec5d66b67f",
+    "title": "A Love Supreme",
+    "artist": "John Coltrane",
+    "coverUrl": "https://coverartarchive.org/release/2d2b2557-5000-37ae-b18f-1fec5d66b67f/front-500",
+    "releaseYear": 1965
+  },
+  {
+    "id": "eae5ad72-52fe-41a5-9838-21d793146cc5",
+    "title": "Are You Experienced",
+    "artist": "Jimi Hendrix",
+    "coverUrl": "https://coverartarchive.org/release/eae5ad72-52fe-41a5-9838-21d793146cc5/front-500",
+    "releaseYear": 1982
+  },
+  {
+    "id": "e89352b6-8cd9-4ab0-a5b1-bba830235cda",
+    "title": "Electric Ladyland",
+    "artist": "Jimi Hendrix",
+    "coverUrl": "https://coverartarchive.org/release/e89352b6-8cd9-4ab0-a5b1-bba830235cda/front-500"
+  },
+  {
+    "id": "16aa82e4-061b-4c9c-8540-105e8398909d",
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "coverUrl": "https://coverartarchive.org/release/16aa82e4-061b-4c9c-8540-105e8398909d/front-500",
+    "releaseYear": 1994
+  },
+  {
+    "id": "32f76eef-5004-3e80-bdf8-912298896134",
+    "title": "Animals",
+    "artist": "Pink Floyd",
+    "coverUrl": "https://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/front-500",
+    "releaseYear": 1977
+  },
+  {
+    "id": "92e81607-7815-4e77-a598-b48c02f784cd",
+    "title": "The Rise and Fall of Ziggy Stardust",
+    "artist": "David Bowie",
+    "coverUrl": "https://coverartarchive.org/release/92e81607-7815-4e77-a598-b48c02f784cd/front-500"
+  },
+  {
+    "id": "f5228f7b-6b4f-3960-8cd3-363501ea7021",
+    "title": "Low",
+    "artist": "David Bowie",
+    "coverUrl": "https://coverartarchive.org/release/f5228f7b-6b4f-3960-8cd3-363501ea7021/front-500",
+    "releaseYear": 1977
+  },
+  {
+    "id": "68d6add0-b185-38ad-9814-39ed5e4e231a",
+    "title": "Heroes",
+    "artist": "David Bowie",
+    "coverUrl": "https://coverartarchive.org/release/68d6add0-b185-38ad-9814-39ed5e4e231a/front-500",
+    "releaseYear": 1999
+  },
+  {
+    "id": "2ba6f62f-d636-42e0-84d7-d7ff2bc6a1e1",
+    "title": "Station to Station",
+    "artist": "David Bowie",
+    "coverUrl": "https://coverartarchive.org/release/2ba6f62f-d636-42e0-84d7-d7ff2bc6a1e1/front-500",
+    "releaseYear": 1991
+  },
+  {
+    "id": "63943c8a-24c2-466d-854a-47a23bb3e9d4",
+    "title": "Revolver",
+    "artist": "The Beatles",
+    "coverUrl": "https://coverartarchive.org/release/63943c8a-24c2-466d-854a-47a23bb3e9d4/front-500",
+    "releaseYear": 1966
+  },
+  {
+    "id": "bab157e1-772c-3173-86eb-e7538732fec9",
+    "title": "Rubber Soul",
+    "artist": "The Beatles",
+    "coverUrl": "https://coverartarchive.org/release/bab157e1-772c-3173-86eb-e7538732fec9/front-500",
+    "releaseYear": 1987
+  },
+  {
+    "id": "da5b1889-7fee-4d97-8c76-94b25303b3b7",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "coverUrl": "https://coverartarchive.org/release/da5b1889-7fee-4d97-8c76-94b25303b3b7/front-500",
+    "releaseYear": 1987
+  },
+  {
+    "id": "c1e9f78a-9626-49cf-8dd4-6f1996ca3894",
+    "title": "Please Please Me",
+    "artist": "The Beatles",
+    "coverUrl": "https://coverartarchive.org/release/c1e9f78a-9626-49cf-8dd4-6f1996ca3894/front-500",
+    "releaseYear": 1966
+  },
+  {
+    "id": "13d5f889-c9f0-358b-a6c4-1b2717b29755",
+    "title": "Exile on Main St.",
+    "artist": "The Rolling Stones",
+    "coverUrl": "https://coverartarchive.org/release/13d5f889-c9f0-358b-a6c4-1b2717b29755/front-500",
+    "releaseYear": 2010
+  },
+  {
+    "id": "126fb7bb-95e5-4f0a-955a-a9d8e2f38327",
+    "title": "Sticky Fingers",
+    "artist": "The Rolling Stones",
+    "coverUrl": "https://coverartarchive.org/release/126fb7bb-95e5-4f0a-955a-a9d8e2f38327/front-500",
+    "releaseYear": 2015
+  },
+  {
+    "id": "aae53b6a-1f64-4498-a408-043ba7bdebd9",
+    "title": "Beggars Banquet",
+    "artist": "The Rolling Stones",
+    "coverUrl": "https://coverartarchive.org/release/aae53b6a-1f64-4498-a408-043ba7bdebd9/front-500",
+    "releaseYear": 2018
+  },
+  {
+    "id": "2657e677-49ce-480f-8868-04a0b354aec2",
+    "title": "The Velvet Underground & Nico",
+    "artist": "The Velvet Underground",
+    "coverUrl": "https://coverartarchive.org/release/2657e677-49ce-480f-8868-04a0b354aec2/front-500",
+    "releaseYear": 1967
+  },
+  {
+    "id": "8666f5b9-99f1-39a9-a0e9-65a727b4cc90",
+    "title": "Unknown Pleasures",
+    "artist": "Joy Division",
+    "coverUrl": "https://coverartarchive.org/release/8666f5b9-99f1-39a9-a0e9-65a727b4cc90/front-500",
+    "releaseYear": 1985
+  },
+  {
+    "id": "040c1da8-e5e0-480b-a8ea-433d4135a9b1",
+    "title": "Closer",
+    "artist": "Joy Division",
+    "coverUrl": "https://coverartarchive.org/release/040c1da8-e5e0-480b-a8ea-433d4135a9b1/front-500",
+    "releaseYear": 1999
+  },
+  {
+    "id": "9707ab3d-469a-401b-bcfd-f9b5abf3c863",
+    "title": "The Queen Is Dead",
+    "artist": "The Smiths",
+    "coverUrl": "https://coverartarchive.org/release/9707ab3d-469a-401b-bcfd-f9b5abf3c863/front-500",
+    "releaseYear": 1986
+  },
+  {
+    "id": "30697fdd-3634-4e33-8f4b-cbff7e67ef09",
+    "title": "Meat Is Murder",
+    "artist": "The Smiths",
+    "coverUrl": "https://coverartarchive.org/release/30697fdd-3634-4e33-8f4b-cbff7e67ef09/front-500",
+    "releaseYear": 2011
+  },
+  {
+    "id": "5e293e28-d776-47ee-85c2-840cdf0a9ef1",
+    "title": "Disintegration",
+    "artist": "The Cure",
+    "coverUrl": "https://coverartarchive.org/release/5e293e28-d776-47ee-85c2-840cdf0a9ef1/front-500",
+    "releaseYear": 1989
+  },
+  {
+    "id": "d05ed3bb-ff2a-330f-b0af-ef6c3e0bf7e8",
+    "title": "Violator",
+    "artist": "Depeche Mode",
+    "coverUrl": "https://coverartarchive.org/release/d05ed3bb-ff2a-330f-b0af-ef6c3e0bf7e8/front-500",
+    "releaseYear": 1990
+  },
+  {
+    "id": "e5af923d-4356-4649-8299-ddcfb6f71db4",
+    "title": "Achtung Baby",
+    "artist": "U2",
+    "coverUrl": "https://coverartarchive.org/release/e5af923d-4356-4649-8299-ddcfb6f71db4/front-500",
+    "releaseYear": 1991
+  },
+  {
+    "id": "578d2cc4-28f5-4410-907e-40fa6d4c2642",
+    "title": "Automatic for the People",
+    "artist": "R.E.M.",
+    "coverUrl": "https://coverartarchive.org/release/578d2cc4-28f5-4410-907e-40fa6d4c2642/front-500",
+    "releaseYear": 1992
+  },
+  {
+    "id": "fdb5287e-aa13-3694-a2d8-69ea36d04d4d",
+    "title": "Murmur",
+    "artist": "R.E.M.",
+    "coverUrl": "https://coverartarchive.org/release/fdb5287e-aa13-3694-a2d8-69ea36d04d4d/front-500"
+  },
+  {
+    "id": "48386ca7-98b7-4f21-97b5-e942310012fb",
+    "title": "Doolittle",
+    "artist": "Pixies",
+    "coverUrl": "https://coverartarchive.org/release/48386ca7-98b7-4f21-97b5-e942310012fb/front-500",
+    "releaseYear": 2009
+  },
+  {
+    "id": "29a14c78-74ad-44d0-9d51-1613701248cb",
+    "title": "Dummy",
+    "artist": "Portishead",
+    "coverUrl": "https://coverartarchive.org/release/29a14c78-74ad-44d0-9d51-1613701248cb/front-500",
+    "releaseYear": 2008
+  },
+  {
+    "id": "fd73e3d1-c162-46c6-a904-1fd77e6bde17",
+    "title": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill",
+    "coverUrl": "https://coverartarchive.org/release/fd73e3d1-c162-46c6-a904-1fd77e6bde17/front-500",
+    "releaseYear": 1998
+  },
+  {
+    "id": "c366279a-a1bd-4e7d-ab53-e6581e20b395",
+    "title": "Ready to Die",
+    "artist": "The Notorious B.I.G.",
+    "coverUrl": "https://coverartarchive.org/release/c366279a-a1bd-4e7d-ab53-e6581e20b395/front-500",
+    "releaseYear": 1995
+  },
+  {
+    "id": "f00af81c-9249-49d0-b3f5-8b6725bd1900",
+    "title": "Illmatic",
+    "artist": "Nas",
+    "coverUrl": "https://coverartarchive.org/release/f00af81c-9249-49d0-b3f5-8b6725bd1900/front-500",
+    "releaseYear": 1994
+  },
+  {
+    "id": "c4494b26-cd1b-4032-9c7f-8ad0d4f7092d",
+    "title": "Enter the Wu-Tang (36 Chambers)",
+    "artist": "Wu-Tang Clan",
+    "coverUrl": "https://coverartarchive.org/release/c4494b26-cd1b-4032-9c7f-8ad0d4f7092d/front-500",
+    "releaseYear": 1993
+  },
+  {
+    "id": "e2b51264-ab8f-4168-849d-738e703ac24e",
+    "title": "The Low End Theory",
+    "artist": "A Tribe Called Quest",
+    "coverUrl": "https://coverartarchive.org/release/e2b51264-ab8f-4168-849d-738e703ac24e/front-500",
+    "releaseYear": 1991
+  },
+  {
+    "id": "75c33b4c-81c3-4cc5-ae83-cd146848b9d2",
+    "title": "Straight Outta Compton",
+    "artist": "N.W.A.",
+    "coverUrl": "https://coverartarchive.org/release/75c33b4c-81c3-4cc5-ae83-cd146848b9d2/front-500",
+    "releaseYear": 2002
+  },
+  {
+    "id": "b4d6e526-4195-49bc-b660-b6df4c27686e",
+    "title": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "coverUrl": "https://coverartarchive.org/release/b4d6e526-4195-49bc-b660-b6df4c27686e/front-500",
+    "releaseYear": 2015
+  },
+  {
+    "id": "bb772ff7-7ed8-435b-9bfe-90df819fa605",
+    "title": "good kid, m.A.A.d city",
+    "artist": "Kendrick Lamar",
+    "coverUrl": "https://coverartarchive.org/release/bb772ff7-7ed8-435b-9bfe-90df819fa605/front-500",
+    "releaseYear": 2012
+  },
+  {
+    "id": "d468ffe2-254f-3ca4-899f-dc155bcfd483",
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "coverUrl": "https://coverartarchive.org/release/d468ffe2-254f-3ca4-899f-dc155bcfd483/front-500",
+    "releaseYear": 2010
+  },
+  {
+    "id": "9519df6d-f8a6-4b57-9ab4-ddb35aa7d09e",
+    "title": "Channel Orange",
+    "artist": "Frank Ocean",
+    "coverUrl": "https://coverartarchive.org/release/9519df6d-f8a6-4b57-9ab4-ddb35aa7d09e/front-500",
+    "releaseYear": 2012
+  },
+  {
+    "id": "8294645a-f996-44b6-9060-7f189b9f59f3",
+    "title": "Blonde",
+    "artist": "Frank Ocean",
+    "coverUrl": "https://coverartarchive.org/release/8294645a-f996-44b6-9060-7f189b9f59f3/front-500",
+    "releaseYear": 2016
+  },
+  {
+    "id": "8d8c1d3e-231b-3d48-bdf1-a3abb9290963",
+    "title": "Gaucho",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/8d8c1d3e-231b-3d48-bdf1-a3abb9290963/front-500",
+    "releaseYear": 2000
+  },
+  {
+    "id": "91097d8c-0d5d-3069-8802-c18a2409a4df",
+    "title": "Aja",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/91097d8c-0d5d-3069-8802-c18a2409a4df/front-500",
+    "releaseYear": 1988
+  },
+  {
+    "id": "1e7a5612-d92f-43d0-8d77-445069a8f873",
+    "title": "Pinkerton",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/1e7a5612-d92f-43d0-8d77-445069a8f873/front-500",
+    "releaseYear": 1996
+  },
+  {
+    "id": "47f3efa5-137c-40e8-ab1b-42d57f5cfbbf",
+    "title": "Dirt",
+    "artist": "Alice in Chains",
+    "coverUrl": "https://coverartarchive.org/release/47f3efa5-137c-40e8-ab1b-42d57f5cfbbf/front-500",
+    "releaseYear": 1992
+  },
+  {
+    "id": "909c135d-99ed-4584-ab06-53a85134832f",
+    "title": "Jar of Flies",
+    "artist": "Alice in Chains",
+    "coverUrl": "https://coverartarchive.org/release/909c135d-99ed-4584-ab06-53a85134832f/front-500",
+    "releaseYear": 1994
+  },
+  {
+    "id": "2d1e803c-a50e-4c41-8903-0b3a9698746e",
+    "title": "Mirage",
+    "artist": "Camel",
+    "coverUrl": "https://coverartarchive.org/release/2d1e803c-a50e-4c41-8903-0b3a9698746e/front-500",
+    "releaseYear": 1974
+  },
+  {
+    "id": "4c1fc97a-6f69-4bf9-aad0-aa4ae8c0e30d",
+    "title": "Ænima",
+    "artist": "Tool",
+    "coverUrl": "https://coverartarchive.org/release/4c1fc97a-6f69-4bf9-aad0-aa4ae8c0e30d/front-500",
+    "releaseYear": 1996
+  },
+  {
+    "id": "a2e93890-7d51-3c83-a403-3fc55a602fef",
+    "title": "Weezer",
+    "artist": "Weezer",
+    "coverUrl": "https://coverartarchive.org/release/a2e93890-7d51-3c83-a403-3fc55a602fef/front-500",
+    "releaseYear": 1994
+  },
+  {
+    "id": "c7ec3684-7b5f-4a78-aa42-63077dda68b1",
+    "title": "Thick as a Brick",
+    "artist": "Jethro Tull",
+    "coverUrl": "https://coverartarchive.org/release/c7ec3684-7b5f-4a78-aa42-63077dda68b1/front-500",
+    "releaseYear": 1985
+  },
+  {
+    "id": "24616345-a1bc-3f1a-ad0f-827efe2a1d94",
+    "title": "The Stranger",
+    "artist": "Billy Joel",
+    "coverUrl": "https://coverartarchive.org/release/24616345-a1bc-3f1a-ad0f-827efe2a1d94/front-500",
+    "releaseYear": 1998
+  },
+  {
+    "id": "e025a38d-b9f3-4711-9365-f06d720730f4",
+    "title": "Dopesmoker",
+    "artist": "Sleep",
+    "coverUrl": "https://coverartarchive.org/release/e025a38d-b9f3-4711-9365-f06d720730f4/front-500",
+    "releaseYear": 2003
+  },
+  {
+    "id": "b880406d-1250-4b3c-8bc8-b40a3303691d",
+    "title": "Brothers in Arms",
+    "artist": "Dire Straits",
+    "coverUrl": "https://coverartarchive.org/release/b880406d-1250-4b3c-8bc8-b40a3303691d/front-500",
+    "releaseYear": 1987
+  },
+  {
+    "id": "93943711-303f-4fa7-a417-f7b7ff31e390",
+    "title": "The Nightfly",
+    "artist": "Donald Fagen",
+    "coverUrl": "https://coverartarchive.org/release/93943711-303f-4fa7-a417-f7b7ff31e390/front-500",
+    "releaseYear": 1982
+  },
+  {
+    "id": "9969b64f-cad5-3921-ad4f-33be685bf9d6",
+    "title": "Oh, No! It's Devo",
+    "artist": "Devo",
+    "coverUrl": "https://coverartarchive.org/release/9969b64f-cad5-3921-ad4f-33be685bf9d6/front-500",
+    "releaseYear": 1982
+  },
+  {
+    "id": "7f4056d0-b3d1-45e1-bd5a-a9bb603aff09",
+    "title": "Q: Are We Not Men? A: We Are Devo!",
+    "artist": "Devo",
+    "coverUrl": "https://coverartarchive.org/release/7f4056d0-b3d1-45e1-bd5a-a9bb603aff09/front-500",
+    "releaseYear": 2009
+  },
+  {
+    "id": "035aae28-0ce9-4198-820f-c0ceac24eae3",
+    "title": "In the Court of the Crimson King",
+    "artist": "King Crimson",
+    "coverUrl": "https://coverartarchive.org/release/035aae28-0ce9-4198-820f-c0ceac24eae3/front-500",
+    "releaseYear": 2014
+  },
+  {
+    "id": "611f1571-3665-3dff-8472-8cc8e4180952",
+    "title": "Welcome to Sky Valley",
+    "artist": "Kyuss",
+    "coverUrl": "https://coverartarchive.org/release/611f1571-3665-3dff-8472-8cc8e4180952/front-500",
+    "releaseYear": 1994
+  },
+  {
+    "id": "999b973b-006a-40fc-9743-101795eafa3a",
+    "title": "Dire Straits",
+    "artist": "Dire Straits",
+    "coverUrl": "https://coverartarchive.org/release/999b973b-006a-40fc-9743-101795eafa3a/front-500",
+    "releaseYear": 1992
+  },
+  {
+    "id": "50f83608-4e6b-408d-b3d5-7e904d79cd2e",
+    "title": "F♯ A♯ ∞",
+    "artist": "Godspeed You! Black Emperor",
+    "coverUrl": "https://coverartarchive.org/release/50f83608-4e6b-408d-b3d5-7e904d79cd2e/front-500",
+    "releaseYear": 1997
+  },
+  {
+    "id": "64d415df-c9a3-4701-b3d9-dcce731247f1",
+    "title": "Mother Earth's Plantasia",
+    "artist": "Mort Garson",
+    "coverUrl": "https://coverartarchive.org/release/64d415df-c9a3-4701-b3d9-dcce731247f1/front-500",
+    "releaseYear": 1976
+  },
+  {
+    "id": "aec7ca73-36ff-41aa-9ad1-57b2d4cc41bb",
+    "title": "Dopethrone",
+    "artist": "Electric Wizard",
+    "coverUrl": "https://coverartarchive.org/release/aec7ca73-36ff-41aa-9ad1-57b2d4cc41bb/front-500",
+    "releaseYear": 2000
+  },
+  {
+    "id": "9eb37417-ac29-4de9-becd-8919e95261e1",
+    "title": "Ashes Against the Grain",
+    "artist": "Agalloch",
+    "coverUrl": "https://coverartarchive.org/release/9eb37417-ac29-4de9-becd-8919e95261e1/front-500",
+    "releaseYear": 2006
   }
 ]

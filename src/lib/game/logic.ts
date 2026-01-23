@@ -66,3 +66,13 @@ export function getRevealedCount(state: GameState): number {
 export function getRemainingGuesses(state: GameState): number {
   return state.maxGuesses - state.guesses.length;
 }
+
+export function giveUp(state: GameState, strategy: ObscureStrategy): GameState {
+  if (state.status !== "playing") return state;
+
+  return {
+    ...state,
+    status: "lost",
+    obscureState: strategy.revealAll(state.obscureState),
+  };
+}
