@@ -2142,5 +2142,386 @@
     "artist": "Weezer",
     "coverUrl": "https://coverartarchive.org/release/425e3c00-61ee-4e04-85a0-6e290fad1c78/front-500",
     "releaseYear": 2010
+  },
+  {
+    "id": "f3e7d752-c22c-4709-bd51-1672152dbc62",
+    "title": "Talking Heads: 77",
+    "artist": "Talking Heads",
+    "coverUrl": "https://coverartarchive.org/release/f3e7d752-c22c-4709-bd51-1672152dbc62/front-500",
+    "releaseYear": 1977
+  },
+  {
+    "id": "2b8dcce9-3b43-4614-871d-65bca9b5fa79",
+    "title": "Pretty Hate Machine",
+    "artist": "Nine Inch Nails",
+    "coverUrl": "https://coverartarchive.org/release/2b8dcce9-3b43-4614-871d-65bca9b5fa79/front-500",
+    "releaseYear": 2011
+  },
+  {
+    "id": "27b41bfe-cbc6-470d-9e5a-8c1b75e7a8e7",
+    "title": "The Fragile",
+    "artist": "Nine Inch Nails",
+    "coverUrl": "https://coverartarchive.org/release/27b41bfe-cbc6-470d-9e5a-8c1b75e7a8e7/front-500",
+    "releaseYear": 1999
+  },
+  {
+    "id": "ea5777f4-867b-4ce2-bfa9-8f3a2239812d",
+    "title": "Lateralus",
+    "artist": "Tool",
+    "coverUrl": "https://coverartarchive.org/release/ea5777f4-867b-4ce2-bfa9-8f3a2239812d/front-500",
+    "releaseYear": 2019
+  },
+  {
+    "id": "4703b5b4-b2b4-4be6-b3ca-1fe12ed898bd",
+    "title": "10,000 Days",
+    "artist": "Tool",
+    "coverUrl": "https://coverartarchive.org/release/4703b5b4-b2b4-4be6-b3ca-1fe12ed898bd/front-500",
+    "releaseYear": 2006
+  },
+  {
+    "id": "a0b21967-e2a8-4cff-b680-26112d0f5192",
+    "title": "Fear Inoculum",
+    "artist": "Tool",
+    "coverUrl": "https://coverartarchive.org/release/a0b21967-e2a8-4cff-b680-26112d0f5192/front-500",
+    "releaseYear": 2019
+  },
+  {
+    "id": "e5f7edd9-3856-4b7e-bfb6-9bbe329b9a7e",
+    "title": "Toulouse Street",
+    "artist": "The Doobie Brothers",
+    "coverUrl": "https://coverartarchive.org/release/e5f7edd9-3856-4b7e-bfb6-9bbe329b9a7e/front-500",
+    "releaseYear": 1990
+  },
+  {
+    "id": "78a724ca-32f8-4fb8-9833-06dd73391d28",
+    "title": "The Captain and Me",
+    "artist": "The Doobie Brothers",
+    "coverUrl": "https://coverartarchive.org/release/78a724ca-32f8-4fb8-9833-06dd73391d28/front-500",
+    "releaseYear": 1973
+  },
+  {
+    "id": "84f68d9c-3b04-4dd1-a628-09bbb0b1a41b",
+    "title": "What Were Once Vices Are Now Habits",
+    "artist": "The Doobie Brothers",
+    "coverUrl": "https://coverartarchive.org/release/84f68d9c-3b04-4dd1-a628-09bbb0b1a41b/front-500",
+    "releaseYear": 1987
+  },
+  {
+    "id": "da7c841b-8494-47b9-94b2-66dcc4a6e5f8",
+    "title": "Minute by Minute",
+    "artist": "The Doobie Brothers",
+    "coverUrl": "https://coverartarchive.org/release/da7c841b-8494-47b9-94b2-66dcc4a6e5f8/front-500",
+    "releaseYear": 1978
+  },
+  {
+    "id": "cfe2b055-21ae-458e-91dd-3622369a1b1e",
+    "title": "The Stranger",
+    "artist": "Billy Joel",
+    "coverUrl": "https://coverartarchive.org/release/cfe2b055-21ae-458e-91dd-3622369a1b1e/front-500",
+    "releaseYear": 2012
+  },
+  {
+    "id": "6942718c-2fd2-4227-a882-130c500806f5",
+    "title": "52nd Street",
+    "artist": "Billy Joel",
+    "coverUrl": "https://coverartarchive.org/release/6942718c-2fd2-4227-a882-130c500806f5/front-500"
+  },
+  {
+    "id": "b0c5e75c-5df6-43e2-8cff-a7cdb2076440",
+    "title": "Glass Houses",
+    "artist": "Billy Joel",
+    "coverUrl": "https://coverartarchive.org/release/b0c5e75c-5df6-43e2-8cff-a7cdb2076440/front-500"
+  },
+  {
+    "id": "2e0f9e74-40f7-449f-ba43-a2d69af417a5",
+    "title": "An Innocent Man",
+    "artist": "Billy Joel",
+    "coverUrl": "https://coverartarchive.org/release/2e0f9e74-40f7-449f-ba43-a2d69af417a5/front-500",
+    "releaseYear": 2013
+  },
+  {
+    "id": "9bbd5297-86cf-4d34-8a60-f72d3765e8a2",
+    "title": "Can't Buy a Thrill",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/9bbd5297-86cf-4d34-8a60-f72d3765e8a2/front-500",
+    "releaseYear": 1998
+  },
+  {
+    "id": "126bc8cd-1bf7-408b-9b18-d1a2efafd782",
+    "title": "Countdown to Ecstasy",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/126bc8cd-1bf7-408b-9b18-d1a2efafd782/front-500",
+    "releaseYear": 1998
+  },
+  {
+    "id": "b48a39c8-3dab-4f7a-95f8-987c120037c0",
+    "title": "Pretzel Logic",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/b48a39c8-3dab-4f7a-95f8-987c120037c0/front-500"
+  },
+  {
+    "id": "97c8d923-8f6c-3ef7-ae87-21396952dd7f",
+    "title": "Katy Lied",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/97c8d923-8f6c-3ef7-ae87-21396952dd7f/front-500",
+    "releaseYear": 1999
+  },
+  {
+    "id": "7bc09186-ec2c-35e7-94e8-07478d1b7121",
+    "title": "The Royal Scam",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/7bc09186-ec2c-35e7-94e8-07478d1b7121/front-500",
+    "releaseYear": 1999
+  },
+  {
+    "id": "91097d8c-0d5d-3069-8802-c18a2409a4df",
+    "title": "Aja",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/91097d8c-0d5d-3069-8802-c18a2409a4df/front-500",
+    "releaseYear": 1988
+  },
+  {
+    "id": "205d3b03-5734-3495-9940-696b7b42ac79",
+    "title": "Gaucho",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/205d3b03-5734-3495-9940-696b7b42ac79/front-500",
+    "releaseYear": 1991
+  },
+  {
+    "id": "103375d7-0b02-3196-8368-68fce5b4ef3d",
+    "title": "Two Against Nature",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/103375d7-0b02-3196-8368-68fce5b4ef3d/front-500",
+    "releaseYear": 2000
+  },
+  {
+    "id": "12dd7ed4-f757-373a-99bc-9a80d089f9f0",
+    "title": "Silver Side Up",
+    "artist": "Nickelback",
+    "coverUrl": "https://coverartarchive.org/release/12dd7ed4-f757-373a-99bc-9a80d089f9f0/front-500",
+    "releaseYear": 2001
+  },
+  {
+    "id": "ca2615fb-a9d8-3c3b-897f-ff97a593cc07",
+    "title": "The Long Road",
+    "artist": "Nickelback",
+    "coverUrl": "https://coverartarchive.org/release/ca2615fb-a9d8-3c3b-897f-ff97a593cc07/front-500",
+    "releaseYear": 2003
+  },
+  {
+    "id": "d7c12234-38f2-4212-8cb4-dcbce0bef4e6",
+    "title": "All the Right Reasons",
+    "artist": "Nickelback",
+    "coverUrl": "https://coverartarchive.org/release/d7c12234-38f2-4212-8cb4-dcbce0bef4e6/front-500",
+    "releaseYear": 2005
+  },
+  {
+    "id": "7b8d4f49-03bf-4542-9596-f22157e7c6f1",
+    "title": "Dark Horse",
+    "artist": "Nickelback",
+    "coverUrl": "https://coverartarchive.org/release/7b8d4f49-03bf-4542-9596-f22157e7c6f1/front-500",
+    "releaseYear": 2010
+  },
+  {
+    "id": "cb5e68da-bf42-32e6-ae35-29d99f931960",
+    "title": "Burial",
+    "artist": "Burial",
+    "coverUrl": "https://coverartarchive.org/release/cb5e68da-bf42-32e6-ae35-29d99f931960/front-500",
+    "releaseYear": 2006
+  },
+  {
+    "id": "69e9fe77-89e3-4f0e-982a-ab657d9118ff",
+    "title": "Untrue",
+    "artist": "Burial",
+    "coverUrl": "https://coverartarchive.org/release/69e9fe77-89e3-4f0e-982a-ab657d9118ff/front-500",
+    "releaseYear": 2016
+  },
+  {
+    "id": "32a959f7-8418-4072-9a8e-bbbb2b415273",
+    "title": "Unleash the Dragon",
+    "artist": "Sisqó",
+    "coverUrl": "https://coverartarchive.org/release/32a959f7-8418-4072-9a8e-bbbb2b415273/front-500",
+    "releaseYear": 2000
+  },
+  {
+    "id": "2b32ca1e-e4c4-4eac-aae0-99bda4276090",
+    "title": "Piano Man",
+    "artist": "Billy Joel",
+    "coverUrl": "https://coverartarchive.org/release/2b32ca1e-e4c4-4eac-aae0-99bda4276090/front-500",
+    "releaseYear": 1998
+  },
+  {
+    "id": "c5a21f1c-92f1-450c-8ea3-1b9dd9bb5216",
+    "title": "Everything Must Go",
+    "artist": "Steely Dan",
+    "coverUrl": "https://coverartarchive.org/release/c5a21f1c-92f1-450c-8ea3-1b9dd9bb5216/front-500",
+    "releaseYear": 2003
+  },
+  {
+    "id": "455dd772-ddc2-37f0-b53d-727fe926f3b9",
+    "title": "A Farewell to Kings",
+    "artist": "Rush",
+    "coverUrl": "https://coverartarchive.org/release/455dd772-ddc2-37f0-b53d-727fe926f3b9/front-500",
+    "releaseYear": 1977
+  },
+  {
+    "id": "1f1784aa-e063-4c6e-8921-2f6911151d64",
+    "title": "It's Dark and Hell Is Hot",
+    "artist": "DMX",
+    "coverUrl": "https://coverartarchive.org/release/1f1784aa-e063-4c6e-8921-2f6911151d64/front-500",
+    "releaseYear": 2000
+  },
+  {
+    "id": "d36ab957-c5e7-4b30-94f1-fcd39d3325cd",
+    "title": "I Get Wet",
+    "artist": "Andrew W.K.",
+    "coverUrl": "https://coverartarchive.org/release/d36ab957-c5e7-4b30-94f1-fcd39d3325cd/front-500",
+    "releaseYear": 2001
+  },
+  {
+    "id": "0aa87f3e-a91a-4355-ad9e-6d60be378841",
+    "title": "Brat",
+    "artist": "Charli XCX",
+    "coverUrl": "https://coverartarchive.org/release/0aa87f3e-a91a-4355-ad9e-6d60be378841/front-500",
+    "releaseYear": 2024
+  },
+  {
+    "id": "5e293e28-d776-47ee-85c2-840cdf0a9ef1",
+    "title": "Disintegration",
+    "artist": "The Cure",
+    "coverUrl": "https://coverartarchive.org/release/5e293e28-d776-47ee-85c2-840cdf0a9ef1/front-500",
+    "releaseYear": 1989
+  },
+  {
+    "id": "03a3acfb-67ee-3353-a3f9-65a1af3a626e",
+    "title": "Kiss Me, Kiss Me, Kiss Me",
+    "artist": "The Cure",
+    "coverUrl": "https://coverartarchive.org/release/03a3acfb-67ee-3353-a3f9-65a1af3a626e/front-500",
+    "releaseYear": 1987
+  },
+  {
+    "id": "377e3fbe-fb56-3a14-9814-9cd5d36e339f",
+    "title": "The Head on the Door",
+    "artist": "The Cure",
+    "coverUrl": "https://coverartarchive.org/release/377e3fbe-fb56-3a14-9814-9cd5d36e339f/front-500",
+    "releaseYear": 1985
+  },
+  {
+    "id": "873ec3fb-60b4-49e4-b90d-f93af926fb6a",
+    "title": "Pornography",
+    "artist": "The Cure",
+    "coverUrl": "https://coverartarchive.org/release/873ec3fb-60b4-49e4-b90d-f93af926fb6a/front-500",
+    "releaseYear": 2008
+  },
+  {
+    "id": "6ef4a1e3-446d-4563-ae11-49d025a3647c",
+    "title": "Duran Duran",
+    "artist": "Duran Duran",
+    "coverUrl": "https://coverartarchive.org/release/6ef4a1e3-446d-4563-ae11-49d025a3647c/front-500",
+    "releaseYear": 1995
+  },
+  {
+    "id": "577905e6-5c52-4ec8-9f69-58a9e9d85b9c",
+    "title": "Notorious",
+    "artist": "Duran Duran",
+    "coverUrl": "https://coverartarchive.org/release/577905e6-5c52-4ec8-9f69-58a9e9d85b9c/front-500",
+    "releaseYear": 1986
+  },
+  {
+    "id": "542d1562-0d8e-47ba-aa17-1f9c030bb343",
+    "title": "Bad Company",
+    "artist": "Bad Company",
+    "coverUrl": "https://coverartarchive.org/release/542d1562-0d8e-47ba-aa17-1f9c030bb343/front-500",
+    "releaseYear": 2000
+  },
+  {
+    "id": "104bf1f7-1193-43ca-aaa8-d8c786512d08",
+    "title": "British Steel",
+    "artist": "Judas Priest",
+    "coverUrl": "https://coverartarchive.org/release/104bf1f7-1193-43ca-aaa8-d8c786512d08/front-500",
+    "releaseYear": 1988
+  },
+  {
+    "id": "aa420f07-9645-43bf-ac8d-f5d27a0b120f",
+    "title": "Defenders of the Faith",
+    "artist": "Judas Priest",
+    "coverUrl": "https://coverartarchive.org/release/aa420f07-9645-43bf-ac8d-f5d27a0b120f/front-500",
+    "releaseYear": 1984
+  },
+  {
+    "id": "a139e0eb-4110-4bb8-9434-dcf94af41e61",
+    "title": "Raw Power",
+    "artist": "Iggy and the Stooges",
+    "coverUrl": "https://coverartarchive.org/release/a139e0eb-4110-4bb8-9434-dcf94af41e61/front-500",
+    "releaseYear": 2012
+  },
+  {
+    "id": "9b86b521-2fe7-4777-b119-0bdf296a7c14",
+    "title": "Fun House",
+    "artist": "The Stooges",
+    "coverUrl": "https://coverartarchive.org/release/9b86b521-2fe7-4777-b119-0bdf296a7c14/front-500",
+    "releaseYear": 2009
+  },
+  {
+    "id": "45d13352-5cd1-47a9-ad42-591bf3a5e442",
+    "title": "The Idiot",
+    "artist": "Iggy Pop",
+    "coverUrl": "https://coverartarchive.org/release/45d13352-5cd1-47a9-ad42-591bf3a5e442/front-500",
+    "releaseYear": 1990
+  },
+  {
+    "id": "72dcb7c6-b1bc-38a4-aa37-e02de0117f4f",
+    "title": "Lust for Life",
+    "artist": "Iggy Pop",
+    "coverUrl": "https://coverartarchive.org/release/72dcb7c6-b1bc-38a4-aa37-e02de0117f4f/front-500",
+    "releaseYear": 1990
+  },
+  {
+    "id": "5edf49b6-8364-42b2-ae25-611004289403",
+    "title": "If That's What It Takes",
+    "artist": "Michael McDonald",
+    "coverUrl": "https://coverartarchive.org/release/5edf49b6-8364-42b2-ae25-611004289403/front-500",
+    "releaseYear": 1982
+  },
+  {
+    "id": "753116bf-2b1c-43d3-94d7-a6c528f19afe",
+    "title": "No Lookin' Back",
+    "artist": "Michael McDonald",
+    "coverUrl": "https://coverartarchive.org/release/753116bf-2b1c-43d3-94d7-a6c528f19afe/front-500",
+    "releaseYear": 1985
+  },
+  {
+    "id": "83c45b6c-69ee-4eb0-903b-bd944ed59d48",
+    "title": "Hybrid Theory",
+    "artist": "Linkin Park",
+    "coverUrl": "https://coverartarchive.org/release/83c45b6c-69ee-4eb0-903b-bd944ed59d48/front-500",
+    "releaseYear": 2000
+  },
+  {
+    "id": "6d4734bf-6d00-43ec-ad1f-63c1a7c814c4",
+    "title": "Meteora",
+    "artist": "Linkin Park",
+    "coverUrl": "https://coverartarchive.org/release/6d4734bf-6d00-43ec-ad1f-63c1a7c814c4/front-500",
+    "releaseYear": 2006
+  },
+  {
+    "id": "e7064a73-9251-4ff5-a6fb-cd30a627eff9",
+    "title": "Minutes to Midnight",
+    "artist": "Linkin Park",
+    "coverUrl": "https://coverartarchive.org/release/e7064a73-9251-4ff5-a6fb-cd30a627eff9/front-500",
+    "releaseYear": 2007
+  },
+  {
+    "id": "852bc7ff-81b5-4449-9eda-c102b88cd760",
+    "title": "A Thousand Suns",
+    "artist": "Linkin Park",
+    "coverUrl": "https://coverartarchive.org/release/852bc7ff-81b5-4449-9eda-c102b88cd760/front-500",
+    "releaseYear": 2010
+  },
+  {
+    "id": "35a68426-e638-457a-841d-c6e202654639",
+    "title": "A Beautiful Lie",
+    "artist": "Thirty Seconds to Mars",
+    "coverUrl": "https://coverartarchive.org/release/35a68426-e638-457a-841d-c6e202654639/front-500"
   }
 ]

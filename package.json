@@ -9,7 +9,8 @@
     "lint": "next lint",
     "test": "vitest",
     "test:run": "vitest run",
-    "fetch-albums": "tsx scripts/fetch-albums.ts"
+    "fetch-albums": "tsx scripts/fetch-albums.ts",
+    "add-album": "tsx scripts/add-album.ts"
   },
   "dependencies": {
     "next": "^15.1.0",
